@@ -11,5 +11,5 @@
 <p>El juego trata acerca de colocar nombres de tus amigos , en el cual al dar click en sortear amigo, dara un nombre como por ejemplo: Alex es el amigo secreto.</p>
 
 <h2>Tecnologías utilizadas</h2>
-<li><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1960d25b-875b-43a4-8f27-2ce528e1d375" />
+<li><img width="9" height="9" alt="image" src="https://github.com/user-attachments/assets/1960d25b-875b-43a4-8f27-2ce528e1d375" />
 </li>
