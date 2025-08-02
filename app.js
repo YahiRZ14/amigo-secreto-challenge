@@ -8,13 +8,19 @@ function agregarAmigo() {
         return;
     }
 
+    // Validar si el nombre ya existe en el arreglo
+    if (amigos.includes(nombre)) {
+        alert("Este nombre ya fue agregado. No se permiten duplicados.");
+        return;
+    }
+
     amigos.push(nombre);
 
-    // Mostrar la lista actualizada
     mostrarListaDeAmigos();
 
     document.getElementById("amigo").value = "";
 }
+
 
 function mostrarListaDeAmigos() {
     // 1. Obtener el elemento UL donde se mostrará la lista
