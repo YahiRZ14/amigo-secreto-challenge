@@ -8,7 +8,7 @@ function agregarAmigo() {
         return;
     }
 
-    // Validar si el nombre ya existe en el arreglo
+    // Validar si el nombre ya existe 
     if (amigos.includes(nombre)) {
         alert("Este nombre ya fue agregado. No se permiten duplicados.");
         return;
